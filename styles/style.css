@@ -51,6 +51,7 @@ p{
 }
 img{
     width: 580px;
+    padding-left: 30%;
 }
 form{
     display: flex;
@@ -91,5 +92,11 @@ input{
     color: white;
     transition: 0.3s all;
 }
+#submit:hover{
+    background-color: white;
+    color: rgb(255, 127, 0);
+    transition: 0.3s all;
+}
+
 
 
